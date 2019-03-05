@@ -65,7 +65,7 @@ let employee = {
 console.log(`Our company's lawyer is ${employee.name}`);
 console.log(`Jeff was hired on ${employee.hire_date}`);
 
-let eom = "employee of the month";
+let eom = "employee of the month"; // anytimew you see quotes, you have to use Bracket Notation
 
 employee.vacation_days = 20;
 
